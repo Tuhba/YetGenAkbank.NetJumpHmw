@@ -1,0 +1,4 @@
+C:\Users\Özkayıkcı\source\repos\10.Hafta-Singleton\10.Hafta-Singleton\obj\Debug\net7.0\10.Hafta-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Özkayıkcı\source\repos\10.Hafta-Singleton\10.Hafta-Singleton\obj\Debug\net7.0\10.Hafta-Singleton.AssemblyInfoInputs.cache
+C:\Users\Özkayıkcı\source\repos\10.Hafta-Singleton\10.Hafta-Singleton\obj\Debug\net7.0\10.Hafta-Singleton.AssemblyInfo.cs
+C:\Users\Özkayıkcı\source\repos\10.Hafta-Singleton\10.Hafta-Singleton\obj\Debug\net7.0\10.Hafta-Singleton.csproj.CoreCompileInputs.cache

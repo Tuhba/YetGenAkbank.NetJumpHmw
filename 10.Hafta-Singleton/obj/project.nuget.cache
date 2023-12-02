@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7eIjQLWR3zFgX/xZ0CnZKb+N1VaymKHis8gYuNlMeTZq8RfUwVc9TnFtTx9K/lrAU8osvpU0bcQKQQVbzT0rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Özkayıkcı\\source\\repos\\10.Hafta-Singleton\\10.Hafta-Singleton\\10.Hafta-Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Özkayıkcı\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Özkayıkcı\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Özkayıkcı\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
